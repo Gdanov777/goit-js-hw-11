@@ -7,7 +7,7 @@ body {
         Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #fafafa;
+    background-color: #cbd2d3;
     color: #212121;
     line-height: 1.5;
 }
@@ -42,10 +42,10 @@ img {
     align-items: center;
     justify-content: center;
     padding: 20px 0 20px 0;
-    background: rgba(121, 144, 147, 0.959);
-    box-shadow: 2px 10px 8px 0px rgba(99, 214, 207, 0.68);
-        -webkit-box-shadow: 2px 10px 8px 0px rgba(99, 214, 207, 0.68);
-        -moz-box-shadow: 2px 10px 8px 0px rgba(99, 214, 207, 0.68);
+    background: rgba(110, 116, 117, 0.959);
+    box-shadow: 2px 10px 8px 0px rgba(86, 98, 97, 0.68);
+        -webkit-box-shadow: 2px 10px 8px 0px rgba(81, 107, 105, 0.68);
+        -moz-box-shadow: 2px 10px 8px 0px rgba(6, 71, 67, 0.68);
 }
 
 input {
@@ -69,12 +69,12 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #60f18b;
+    background-color: #53b771;
 }
 
 button:hover,
 button:focus {
-    background-color: #7b60f1;
+    background-color: #187634;
 }
 
 .gallery {
@@ -86,7 +86,7 @@ button:focus {
 }
 
 .photo-card {
-    background-color: rgba(185, 242, 250, 0.959);
+    background-color: rgba(172, 168, 183, 0.959);
     border: 1px solid #0d161b;
     border-radius: 5px;    
     padding: 20px;
